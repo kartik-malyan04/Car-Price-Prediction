@@ -1,0 +1,12 @@
+Car Price Prediction using Machine Learning
+
+Model: Random Forest Regressor
+
+Results:
+
+Mean Absolute Error (MAE): 0.75
+
+R2 Score: 0.96
+
+Conclusion:
+The model successfully predicts used car prices with good accuracy based on vehicle features such as year, fuel type, transmission, and kilometers driven.
